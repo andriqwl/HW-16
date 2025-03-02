@@ -6,7 +6,7 @@
     background-image:
           url(https://thermohouse.ie/wp-content/uploads/2019/04/hero-image.jpg),
           url(https://www.freeiconspng.com/uploads/lamp-png-0.png),
-          url(/img/green-png-44873.png),
+          url(./img/green-png-44873.png),
           url(https://emojiisland.com/cdn/shop/products/Flushed_Emoji_Icon_5e6ce936-4add-472b-96ba-9082998adcf7_large.png?v=1571606089),
           url(https://ps.w.org/emoji-toolbar/assets/icon-256x256.png?rev=2580091);
     background-repeat: no-repeat, repeat-x, repeat-x, repeat-y, repeat-y;
